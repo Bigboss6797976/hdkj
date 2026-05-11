@@ -1,0 +1,7 @@
+文件,作用,
+`MockToken.sol`,本地测试代币（模拟 USDT）,
+`PhishingDemo.sol`,演示攻击者如何利用 `approve` + `transferFrom` 盗币,
+`Permit2Integration.sol`,安全的 Permit2 集成示例,
+`security-demo.test.js`,3 个测试用例，一步步展示攻击原理,
+`check-allowance.js`,授权检测工具模板,
+`README.md`,完整说明文档,
